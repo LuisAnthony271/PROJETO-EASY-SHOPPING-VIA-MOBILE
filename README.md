@@ -3,7 +3,8 @@
 <br>
 <h2> Projeto feito no curso <a href="https://rodolfomori.com.br/devclub/">DEVCLUB</a></h2>
 <br>
-tecnologias utilizadas:
+
+### tecnologias utilizadas:
   
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
   
